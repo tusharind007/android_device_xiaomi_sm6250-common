@@ -65,3 +65,6 @@ persist.vendor.wigig.npt.enable         u:object_r:vendor_default_prop:s0
 # Mlipay
 persist.sys.ifaa                        u:object_r:ifaa_prop:s0
 persist.vendor.sys.pay.		        u:object_r:ifaa_prop:s0
+
+# WiFi Display
+persist.vendor.setWFDInfo.                                      u:object_r:vendor_wfd_sys_debug_prop:s0
